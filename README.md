@@ -1,0 +1,1 @@
+# seasonality-website-vibe-coded
