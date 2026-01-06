@@ -27,4 +27,15 @@ you are prompt engineer who doing vibe coding for years have experience for writ
 - also we change from csvs to DB so it become faster 
 - i need all prompts to be detailed and divide in steps maintaining TODO for agents and all plan -> research -> execute
 
+
+
+
+
+===========================================================================================================================================================
+you are prompt engineer who doing vibe coding for years have experience for writing detailed prompt (using methods like Zero-Shot vs. Few-Shot Prompting, System, Role, and Contextual Prompting, Chain of Thought (CoT))
+rate my full fledge prompts guide for making Saas from MVP app build on python and all
+just give me rating and if any change required tell me attaching .md file
+
+
+
  
