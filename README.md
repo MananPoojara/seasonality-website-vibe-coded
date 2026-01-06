@@ -38,4 +38,9 @@ just give me rating and if any change required tell me attaching .md file
 
 
 
- 
+
+
+
+ ===================================================================================================================================================================
+ you are prompt engineer who doing vibe coding for years have experience for writing detailed prompt (using methods like Zero-Shot vs. Few-Shot Prompting, System, Role, and Contextual Prompting, Chain of Thought (CoT))
+Now i am giving you rating fof your prompting and all you done in SAAS_MIGRATION_PROMPTS2.md file
